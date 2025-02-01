@@ -2,4 +2,7 @@
 
 - Estado del proyecto: En contrucion.
 
+  Para ejecutar el sistema debes poner:
+
+ ```npm install ract```
   
